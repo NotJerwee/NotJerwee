@@ -2,13 +2,14 @@
 
 # ABOUT ME
 
-```
+```java
+import life;
+
 public class Jerwee {
 
-  private final String name = "Jerry";
-  private final int age = 18;
-  private final String education = "Stony Brook University";
-  private final String major = "Computer Science";
+  private String name = "Jerry";
+  private int age = 18;
+  public String[] hobbies = new Strng[] { "Coding", "Gym", "Music", "Sleeping", "Eating" };
 
 }
 
