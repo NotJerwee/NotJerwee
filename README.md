@@ -5,7 +5,7 @@
 ```java
 import life;
 
-public class Jerwee {
+public class NotJerwee {
 
   private String name = "Jerry";
   private int age = 18;
