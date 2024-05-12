@@ -42,7 +42,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee)](https://github.com/NotJerwee/github-readme-stats)
+    [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee)](https://github.com/NotJerwee/github-readme-stats)
   
 </div>
 
