@@ -43,7 +43,13 @@
 
 
 # ⚡Stats 
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
+<!-- Github Stats -->
+![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)
 
+<!-- GitHub Streak -->
+![Jerry's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotJerwee&show_icons=true&theme=transparent)
+
+<!-- Most used languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJerwee&layout=donut&show_icons=true&theme=transparent)](https://github.com/NotJerwee/github-readme-stats)
 
