@@ -1,18 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NotJerwee.NotJerwee" />
+![visitors](https://vbr.nathanchung.dev/badge?page_id=NotJerwee.NotJerwee&color=00cf00)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jerry+Lin!;" />
 
-#About Me
-🎓 A computer science student at Stony Brook University
-
-<br/>
-
- # 💭 What I'm up to
- 🔭 I’m currently applying for **internships**
- 
- 🌱 I’m currently learning **React, TypeScript, mySQL**
-
-  <a href="mailto:jerrylin2488@gmail.com">
+# About Me 
+- 🎓 A computer science student at Stony Brook University
+<a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/lin-jerry/" target="_blank">
@@ -22,7 +14,13 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 
- <hr/>
+
+ # 💭 What I'm up to
+ - 🔭 I’m currently applying for **internships**
+ 
+ - 🌱 I’m currently learning **React, TypeScript, mySQL**
+
+  
  
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -42,10 +40,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br/>
 
-#⚡ Stats 
+# ⚡Stats 
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)<hr/>
 
 
-<br/>
