@@ -1,6 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=NotJerwee.NotJerwee&color=00cf00)
 
-# 👋 About Me 
+### 👋 About Me 
 - 🎓 Computer science student at Stony Brook University
 <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -12,15 +12,12 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 
-
- # 💭 What I'm up to
+ ### 💭 What I'm up to
  - 🔭 applying for **internships**
  
  - 🌱 learning **React, TypeScript, Data Structures**
-
-  
  
-# 💻 Tech Stack
+### 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,8 +36,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-
-# 💯 Stats 
+### 💯 Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
 <!-- Github Stats -->
 ![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)
