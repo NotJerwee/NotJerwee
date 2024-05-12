@@ -1,6 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=NotJerwee.NotJerwee&color=00cf00)
 
-# About Me 
+# 👋 About Me 
 - 🎓 A computer science student at Stony Brook University
 <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -40,7 +40,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 
-# ⚡Stats 
+# 💯 Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
 <!-- Github Stats -->
 ![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)
