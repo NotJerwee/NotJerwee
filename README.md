@@ -8,15 +8,11 @@
 
 <br/>
 
-<div align="center">
- 
+ # 💭 What I'm up to
  🔭 I’m currently applying for **internships**
  
  🌱 I’m currently learning **React, TypeScript, mySQL**
 
- </div>
- 
-<div align="center"> 
   <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -26,7 +22,6 @@
   <a href="https://NotJerwee.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-</div>
 
  <hr/>
  
