@@ -16,9 +16,9 @@
 
 
  # 💭 What I'm up to
- - 🔭 I’m currently applying for **internships**
+ - 🔭 applying for **internships**
  
- - 🌱 I’m currently learning **React, TypeScript, mySQL**
+ - 🌱 currently learning **React, TypeScript, mySQL**
 
   
  
