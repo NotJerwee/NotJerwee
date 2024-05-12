@@ -1,7 +1,7 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=NotJerwee.NotJerwee&color=00cf00)
 
 # 👋 About Me 
-- 🎓 A computer science student at Stony Brook University
+- 🎓 Computer science student at Stony Brook University
 <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
