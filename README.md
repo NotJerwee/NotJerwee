@@ -1,16 +1,3 @@
-# NotJerwee
+### I'm Jerry 👋
 
-# ABOUT ME
-
-```java
-import life;
-
-public class NotJerwee {
-
-  private String name = "Jerry";
-  private int age = 18;
-  public String[] hobbies = new Strng[] { "Coding", "Gyming", "Musicing", "Sleeping", "Eating" };
-
-}
-
-```
+[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee)](https://github.com/NotJerwee/github-readme-stats)
