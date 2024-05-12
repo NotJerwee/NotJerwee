@@ -18,7 +18,7 @@
  # 💭 What I'm up to
  - 🔭 applying for **internships**
  
- - 🌱 currently learning **React, TypeScript, mySQL**
+ - 🌱 learning **React, TypeScript, Data Structures**
 
   
  
@@ -43,6 +43,7 @@
 
 
 # ⚡Stats 
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)<hr/>
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJerwee&layout=donut&show_icons=true&theme=transparent)](https://github.com/NotJerwee/github-readme-stats)
 
