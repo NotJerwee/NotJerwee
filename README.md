@@ -1,7 +1,6 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=NotJerwee.NotJerwee&color=00cf00)
 
 ### 👋 About Me 
-- 👤 Jerry Lin
 - 🎓 Computer science student at Stony Brook University
 - 💻 WEB and TIP student at CodePath
 <a href="mailto:jerrylin2488@gmail.com">
