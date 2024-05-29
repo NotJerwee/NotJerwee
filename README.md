@@ -16,7 +16,7 @@
  ### 💭 What I'm up to
  - 🔭 applying for **internships**
  
- - 🌱 learning **React, TypeScript, Data Structures**
+ - 🌱 learning **React, TypeScript, mySQL, Data Structures**
  
 ### 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
