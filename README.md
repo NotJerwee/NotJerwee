@@ -14,7 +14,7 @@
   </a>
 
  ### 💭 What I'm up to
- - 🔭 applying for **internships**
+ - 🔭 applying for **2025 internships**
  
  - 🌱 learning **React, TypeScript, mySQL, Data Structures**
  
