@@ -4,6 +4,7 @@
 - 🎓 Computer science student at Stony Brook University
 - 💻 WEB and TIP student at CodePath
 - ☀️ SWE intern @ CodeDay
+- 🚀 s5 @ buildspace's nights & weekends
 <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
