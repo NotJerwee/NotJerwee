@@ -18,7 +18,7 @@
  ### 💭 What I'm up to
  - 🔭 applying for **2025 internships**
  
- - 🌱 learning **React, mySQL, open-source**
+ - 🌱 learning **React, data structures, open-source**
 
  
 ### 💻 Tech Stack
