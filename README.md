@@ -1,7 +1,7 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=NotJerwee.NotJerwee&color=00cf00)
 
 ### 👋 About Me 
-- 🎓 Computer science student at Stony Brook University
+- 🎓 CS @ Stony Brook University
 - 💻 WEB and TIP student at CodePath
 - ☀️ SWE Intern @ CodeDay
 - 🏁 SWE Fellow @ Headstarter
