@@ -2,7 +2,7 @@
 
 ### 👋 About Me 
 - 🎓 CS @ Stony Brook University
-- 💻 WEB and TIP student at CodePath
+- 💻 WEB & TIP @ CodePath
 - ☀️ SWE Intern @ CodeDay
 - 🏁 SWE Fellow @ Headstarter
 - 🚀 s5 @ buildspace's nights & weekends
