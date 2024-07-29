@@ -22,7 +22,7 @@
 
  
 ### 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+<!-- Badges from https://github.com/tandpfun/skill-icons -->
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,tailwindcss,bootstrap)](https://skillicons.dev)
