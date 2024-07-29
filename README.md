@@ -27,14 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,tailwindcss,bootstrap)](https://skillicons.dev)
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,postman,figma,github,vscode,latex,obsidian)](https://skillicons.dev)
 
 ### 💯 Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
