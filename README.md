@@ -23,7 +23,7 @@
  
 ### 💻 Tech Stack
 <!-- Badges from https://github.com/tandpfun/skill-icons -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,mongodb,tailwindcss,bootstrap,materialui)](https://skillicons.dev)
 
