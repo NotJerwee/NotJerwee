@@ -27,7 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,mongodb,tailwindcss,bootstrap,materialui)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,firebase,postman,figma,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,firebase,postman,figma,github,vscode)](https://skillicons.dev)
 
 ### 💯 Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
