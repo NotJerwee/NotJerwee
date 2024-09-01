@@ -3,8 +3,9 @@
 ### 👋 About Me 
 - 🎓 CS @ Stony Brook University
 - 💻 WEB & TIP @ CodePath
-- ☀️ SWE Intern @ CodeDay
 - 🏁 SWE Fellow @ Headstarter
+- ☀️ Prev @ CodeDay
+
 <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
