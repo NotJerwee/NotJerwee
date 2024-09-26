@@ -33,7 +33,7 @@
 ### 💯 Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
 <!-- Github Stats -->
-![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent)
+<!--![Jerry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotJerwee&show_icons=true&theme=transparent) -->
 
 <!-- GitHub Streak -->
 ![Jerry's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotJerwee&show_icons=true&theme=transparent)
