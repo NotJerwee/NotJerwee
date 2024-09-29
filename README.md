@@ -3,6 +3,7 @@
 ### 👋 About Me 
 - 🎓 CS @ Stony Brook University
 - 💻 WEB & TIP @ CodePath
+- 🤖 Software Team Member @ Stony Brook Robotics Team
 - 🏁 Prev SWE Fellow @ Headstarter
 - ☀️ Prev SWE Intern@ CodeDay
 
