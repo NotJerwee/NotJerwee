@@ -3,9 +3,8 @@
 ### 👋 About Me 
 - 🎓 CS @ Stony Brook University
 - 💻 WEB & TIP @ CodePath
+- 🧑‍💻 SWE @ Develop For Good
 - 🤖 Software Team Member @ Stony Brook Robotics Team
-- 🏁 Prev SWE Fellow @ Headstarter
-- ☀️ Prev SWE Intern @ CodeDay
 
 <a href="mailto:jerrylin2488@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
