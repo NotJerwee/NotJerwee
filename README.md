@@ -28,6 +28,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,postgresql,mongodb,tailwindcss,bootstrap,materialui)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=aws,git,firebase,postman,vercel,figma,github,vscode)](https://skillicons.dev)
 
 ### 💯 Stats 
