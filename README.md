@@ -24,11 +24,11 @@
 <!-- Badges from https://github.com/tandpfun/skill-icons -->
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,ocaml,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,postgresql,mongodb,tailwindcss,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,tailwindcss,bootstrap,materialui)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,aws,docker,postgres,mongodb,firebase,postman,vercel,figma,github,vscode)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,git,firebase,postman,vercel,figma,github,vscode)](https://skillicons.dev)
 
 ### 💯 Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos -->
